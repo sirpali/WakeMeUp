@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         TextView mainText = (TextView) findViewById(R.id.maintext);
-        mainText.setText("Fuck yeah");
+        mainText.setText("Fuck yeah Github");
     }
 
     @Override
